@@ -9,4 +9,4 @@ Look-Ahead PID Controller: Predicts trajectories and computes steering adjustmen
 Simulation in CARLA: Tested in realistic simulated environments with diverse road conditions.
 Real-World Validation: Implemented on a test vehicle equipped with a camera and MPU9250 IMU sensor.
 
-<img width="810" alt="Screenshot 2024-11-24 145548" src="https://github.com/user-attachments/assets/fb7096af-78a9-4d09-9033-9f1f9188451c">
+<img width="817" alt="image" src="https://github.com/user-attachments/assets/50a971cc-03b4-49ba-8c73-811f9636e8e9">
