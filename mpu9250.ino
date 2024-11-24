@@ -61,7 +61,7 @@ void I2CwriteByte(uint8_t Address, uint8_t Register, uint8_t Data)
 
 
 
-// Initial time
+// Initial time frame
 long int ti;
 volatile bool intFlag=false;
 Madgwick filter;
